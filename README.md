@@ -1,0 +1,2 @@
+# winNoise
+Execute embedded Mimikatz 

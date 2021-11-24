@@ -1,5 +1,5 @@
 # winNoise
-This PoC Execute embedded Mimikatz 
+This PoC Execute embedded Mimikatz, tested on Windows 10 build 32H2 64 bit
 
 Compile to exe: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /platform:x64 /target:exe /unsafe winNoise.cs
 Compile to dll: https://github.com/mobdk/compilecs
